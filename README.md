@@ -2,7 +2,7 @@
 
 Welcome to the Eternal AI brand kit. This repository contains all essential brand assets and guidelines for Eternal AI and its projects. Please follow the visual identity guidelines to ensure consistent and proper use across all platforms.
 
-![Splash Image](https://github.com/user-attachments/assets/d3acc962-53bb-49fa-85e8-ea8097aa79e5)
+![Splash Image](material/CryptoAgents_Banner.gif)
 
 ## Table of Contents
 
